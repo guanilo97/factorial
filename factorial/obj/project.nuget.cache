@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lP9n1HIS8QXm8op4CNUOHnKFfeTvqSjzO89uwYF0/zBMCHPUpdbwPwqr25UFPklKADnZL1BPKHxiLWJ0QXEQ6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\factorial\\factorial\\factorial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
